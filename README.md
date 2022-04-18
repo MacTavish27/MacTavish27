@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fayzullo. I am a student in TUIT.
 - 👀 I’m interested in computer and mobile games.
-- 🌱 I’m currently learning .NET framework, Entity framework, Wpf, ASP.NET..
+- 🌱 I’m currently learning .NET framework, Entity framework, Wpf, ASP.NET.
 - 📫 Telegram: @TyrantBilly
 
 <!---
