@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Fayzullo. I am a graduate student at TUIT(Tashkent University of Information Technologies).
-- 👀 I’m interested in Computer Science and mobile games.
-- 🌱 I’m currently learning .NET framework, Entity framework, Wpf and ASP.NET Core.
+- 👀 I’m interested in Computer Vision, Machine Learning.
+- 🌱 I’m currently engaged in optimizing a human action recognition task.
 - 📫 Telegram: @advanced_27
 
 <!---
