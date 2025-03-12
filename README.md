@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Fayzullo. I am a graduate student at TUIT(Tashkent University of Information Technologies).
+- 👋 Hi, My name is Fayzullo. I am a graduate CS student at TUIT(Tashkent University of Information Technologies).
 - 👀 I’m interested in Computer Vision, Machine Learning.
 - 🌱 I’m currently engaged in optimizing a human action recognition task.
 - 📫 Telegram: @advanced_27
