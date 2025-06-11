@@ -1,7 +1,8 @@
-- 👋 Hi, My name is Fayzullo. I am a graduate CS student at TUIT(Tashkent University of Information Technologies).
-- 👀 I’m interested in Computer Vision, Machine Learning.
-- 🌱 I’m currently engaged in optimizing a human action recognition task.
+- 👋 Hi, My name is Fayzullo. I am an engineer-programmer at Himavtomatika LLC.
+- 👀 I’m interested in developing C# Desktop applications.
+- 🌱 I have some knowledge in ML and DL models as my bachelor's and master's theses are both dedicated to Artificial Intelligence.
 - 📫 Telegram: @advanced_27
+- LinkedIn: www.linkedin.com/in/fayzullo-abduhakimov-99b9b4280
 
 <!---
 MacTavish27/MacTavish27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
