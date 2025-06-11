@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Fayzullo. I am an engineer-programmer at Himavtomatika LLC.
 - 👀 I’m interested in developing C# Desktop applications.
 - 🌱 I have some knowledge in ML and DL models as my bachelor's and master's theses are both dedicated to Artificial Intelligence.
-- 📫 Telegram: @advanced_27
+- 📫 Telegram: @advanced27
 - LinkedIn: www.linkedin.com/in/fayzullo-abduhakimov-99b9b4280
 
 <!---
